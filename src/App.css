@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(3, 93, 123);
+}
+
+.head{
+  margin-left: 500px
+}
+
+.input{
+  margin-left: 50px;
+}
+
+.input-text{
+  background-color: rgb(3, 93, 123);
+  color: white;
+  width: 500px;
+  height: 500px;
+}
+
+.result{
+  margin-right: 50px;
+}
+
+.result-text{
+  box-shadow: 10px 10px 5px rgb(30, 30, 30);
+  border-radius: 5px;
+  background-color: rgb(78, 76, 76);
+  width: 500px;
+  height: 500px;
+  color: black;
+}
+
+.main{
+  display: flex;
+}
+
+.main-sec{
+  justify-content: space-between;
+}
+
+.color{
+  color:whitesmoke
+}
+
